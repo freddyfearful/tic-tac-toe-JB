@@ -1,0 +1,7 @@
+echo "# tic-tac-toe-JB" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/freddyfearful/tic-tac-toe-JB.git
+git push -u origin main
